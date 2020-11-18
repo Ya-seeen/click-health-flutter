@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1081245504663",
+    "firebase_url": "https://drugplatform-f3cc8.firebaseio.com",
+    "project_id": "drugplatform-f3cc8",
+    "storage_bucket": "drugplatform-f3cc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081245504663:android:3c0d27e7935dca4d3305d2",
+        "android_client_info": {
+          "package_name": "com.mpower.flutter.drug.delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081245504663-vl93il7i8vg6nq0melvp09pqvvs102t9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpower.flutter.drug.delivery",
+            "certificate_hash": "2faac69a44f6577da39216f3f469df900eeb8e6e"
+          }
+        },
+        {
+          "client_id": "1081245504663-jicbh5v2eq3evk0aq99dp1um6m430uf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mpower.flutter.drug.delivery",
+            "certificate_hash": "31a7bf4ba3456a4cecd2969636c501abbad13dd0"
+          }
+        },
+        {
+          "client_id": "1081245504663-00kr6t6gdfd420ij68vg59pjdaldcp6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo-jxiKa2yS14c_mYLXlTQUxn1bljVNyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081245504663-00kr6t6gdfd420ij68vg59pjdaldcp6t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1081245504663-7h8eibgpclojmd7pq645d275om9f4564.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mpower.flutter.drug.delivery"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
